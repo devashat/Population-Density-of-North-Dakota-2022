@@ -1,0 +1,41 @@
+.counties {
+    fill: none;
+    /* stroke: none; */
+    /* stroke-width: 1px; */
+}
+  
+.states {
+    fill: none;
+    stroke: black;
+    stroke-width: 0px;
+}
+
+.tooltip {
+    background: #333;
+    border-radius: 2px;
+    color: #fff;
+    font-size: 12px;
+    padding: 4px;
+    position: absolute;
+  }
+
+  /**/
+  .outline {
+    fill: none;
+    stroke: #000;
+    stroke-width: 1px;
+  }
+  
+  .feature {
+    fill: #ccc;
+  }
+  
+  .mesh {
+    fill: none;
+  }
+  
+  .counties {
+      fill: none;
+      stroke: black;
+      stroke-width: .1px;
+  }
